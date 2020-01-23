@@ -10,7 +10,9 @@
 第六步：查看当前状态    git status
 第七步：git add ./          //将所有工程文件下的文件都提交到大门口，     git commit -m "说明信息"
 第八步：git commit --all -m "说明"    git add 和 commit 的结合版
-第九步：git log    //查看日志
-第十步：git log --oneline  查看简洁版的日志
+第九步：git log     //查看日志
+第十步：git log --oneline //查看简洁版日志
+第十一步：git reset --hard Head~0  //将修改的文件恢复为最近的一个版本
+
 
 	
