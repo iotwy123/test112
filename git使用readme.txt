@@ -12,7 +12,7 @@
 第八步：git commit --all -m "说明"    git add 和 commit 的结合版
 第九步：git log     //查看日志
 第十步：git log --oneline //查看简洁版日志
-第十一步：git reset --hard Head~0  //将修改的文件恢复为最近的一个版本
+第十一步：git reset --hard Head~0  //将修改的文件恢复为最近的一个版本  ~0为索引，~1向前2个版本。同理
 
 
 	
