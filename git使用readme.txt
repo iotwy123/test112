@@ -8,5 +8,8 @@
 	打开仓库门(.git隐藏文件)           git add ./test.txt			//相当于把文件放到大门口
 	把代码放到仓库的房间里	git commit -m "我们完成了第一个功能"  //m指的是新增一个消息
 第六步：查看当前状态    git status
-第七步：git add ./将所有工程文件下的文件都提交到大门口，     git commit -m "说明信息"
+第七步：git add ./          //将所有工程文件下的文件都提交到大门口，     git commit -m "说明信息"
+第八步：git commit --all -m "说明"    git add 和 commit 的结合版
+第九步：git log
+
 	
